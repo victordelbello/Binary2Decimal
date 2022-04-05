@@ -3,12 +3,10 @@ body{
     justify-content: center;
     background-color: #a7acba;
 }
-
 .container{
     margin-top: 2em;
     width: 18em;
 }
-
 .inputContainer,.outputContainer{
     height: 15em;
     display: flex;
@@ -16,10 +14,8 @@ body{
     align-items: center;
     justify-content: center;
 }
-
 .inputContainer{
     background-color: #2d385b;
-
 }
 .outputContainer{
     background-color: white;
@@ -27,11 +23,9 @@ body{
     word-break:break-all;
     text-align: center;
 }
-
 h1{
     color: #2d385b;
 }
-
 input{
     background-color: #2d385b;
     height: 3em;
