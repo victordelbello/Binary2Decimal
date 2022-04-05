@@ -1,2 +1,2 @@
-# Binary2Decimal
-Convert Binary to Decimal
+# Decimal2Binary
+Convert Decimal to Binary
